@@ -8,6 +8,14 @@ public class Ttest {
 		
 		int a = 90;
 		System.out.println(a);
+		
+		pt();
+		
+	}
+
+	public static void pt(){
+		System.out.println("this is a test static method");
+		
 	}
 
 }
