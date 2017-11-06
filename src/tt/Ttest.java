@@ -14,7 +14,7 @@ public class Ttest {
 	}
 
 	public static void pt(){
-		System.out.println("this is a test static method");
+		System.out.println("this is a test static");
 		
 	}
 
